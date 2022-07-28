@@ -1,0 +1,27 @@
+body{
+    background-color: MidnightBlue;
+    
+}
+p{
+    text-align:center;
+    color:black;
+}
+img{
+    max-width:100%;
+    height:auto;
+}
+h1{
+    padding:0px;
+    text-align:center;
+    background-color:Gold;
+}
+h2{
+    text-align:center;
+    background-color:Gold;
+}
+.BoxModel{
+    width:200px;
+    border: 15px solid Gold;
+    padding:50px;
+    margin:20px;
+}
